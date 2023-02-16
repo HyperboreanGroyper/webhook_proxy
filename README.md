@@ -1,2 +1,2 @@
-# webhook_proxy
+# websocket_proxy
 node.js proxy server
